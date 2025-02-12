@@ -1,0 +1,15 @@
+/* src/components/Register.css */
+
+.container {
+    text-align: center;
+  }
+  
+  input,
+  select {
+    width: 100%;
+  }
+  
+  button {
+    width: 100%;
+    font-size: 18px;
+  }

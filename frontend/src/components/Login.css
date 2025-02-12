@@ -1,0 +1,14 @@
+/* src/components/Login.css */
+
+.container {
+    text-align: center;
+  }
+  
+  input {
+    width: 100%;
+  }
+  
+  button {
+    width: 100%;
+    font-size: 18px;
+  }

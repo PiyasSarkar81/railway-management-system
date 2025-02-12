@@ -1,0 +1,5 @@
+Node.js >= 16.x
+React
+Vite
+Axios
+React Router DOM
